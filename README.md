@@ -44,7 +44,7 @@ Active stack components:
 ## 🔗 Reference
 
 Full article:
-[Rustifying My Kafka Pipeline: EOS, Transactions, and Schema Evolution]()
+[Rustifying My Kafka Pipeline: EOS, Transactions, and Schema Evolution](https://medium.com/@andriantriputra/be-rust-rustifying-my-kafka-pipeline-eos-transactions-and-schema-evolution-bb4f6b36c641)
 
 ---
 
