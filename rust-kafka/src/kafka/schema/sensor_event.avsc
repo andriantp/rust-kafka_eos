@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "name": "SensorEvent",
+  "namespace": "com.andrian.pipeline",
+  "fields": [
+    { "name": "sensor", "type": "string" },
+    { "name": "temp", "type": "double" },
+    { "name": "humidity", "type": "double" },
+    { "name": "time", "type": "string" },
+
+    { "name": "event_id", "type": "string" },
+    { "name": "producer_id", "type": "string" },
+
+    { "name": "schema_version", "type": "int", "default": 1 },
+    { "name": "ingested_at", "type": "string" }
+  ]
+}
